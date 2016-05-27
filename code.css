@@ -1,0 +1,35 @@
+body {
+	margin: 10px;
+	background-color: #AAFFAA;
+}
+
+h3 {
+	color: #224422;
+}
+
+h3 a {
+	color: #2222AA;
+	text-decoration: none;
+}
+
+h3 a:hover {
+	color: #2222AA;
+	text-decoration: underline;
+}
+
+footer {
+		position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+      	text-align: center;
+
+}
+
+footer div {
+		font-size: large;
+		font-stretch: extra-expanded;
+		color: #115511;
+}
